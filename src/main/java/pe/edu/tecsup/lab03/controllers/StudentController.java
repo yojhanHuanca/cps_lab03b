@@ -12,5 +12,10 @@ public class StudentController {
 
     public void actualizar() {
         System.out.println("Actualizando estudiante...");
+
+
+    }
+    public void metodoResponsable() {
+        System.out.println("Cambio sprint-2 responsable gaa");
     }
 }
